@@ -1,0 +1,17 @@
+some content into file1
+adding another line
+
+aaaaaa
+modified this too
+
+dd
+dd
+
+d
+adding this line now
+change made from test branch
+<<<<<<< HEAD
+new change from master branch
+=======
+changung from test branch
+>>>>>>> test
